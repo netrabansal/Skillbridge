@@ -1,0 +1,2273 @@
+{
+  "checkedAt": "2026-10-03",
+  "results": {
+    "https://12factor.net/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://12factor.net/logs": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://argo-rollouts.readthedocs.io/en/stable/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://artifacthub.io/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://arxiv.org/abs/1706.03762": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://arxiv.org/abs/2005.11401": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://arxiv.org/abs/2106.09685": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://attack.mitre.org/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://attack.mitre.org/datasources/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://automatetheboringstuff.com/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://aws.amazon.com/certification/certified-solutions-architect-associate/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://beej.us/guide/bgnet/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://catalog.data.gov/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://cfreds.nist.gov/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://cheatsheetseries.owasp.org/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://cheatsheetseries.owasp.org/cheatsheets/CI_CD_Security_Cheat_Sheet.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://cheatsheetseries.owasp.org/cheatsheets/Cryptographic_Storage_Cheat_Sheet.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://clauswilke.com/dataviz/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://cloud.google.com/docs/overview": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://cloud.google.com/iam/docs/overview": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://cloud.google.com/learn/certification/cloud-engineer": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://cloud.google.com/run/docs/overview/what-is-cloud-run": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://cloud.google.com/sql/docs/introduction": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://cloud.google.com/storage/docs/introduction": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://cloud.google.com/vertex-ai/docs/start/introduction-unified-platform": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://cloud.google.com/vpc/docs/overview": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://code.visualstudio.com/docs/datascience/jupyter-notebooks": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://course.fast.ai/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://cryptopals.com/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://cs231n.github.io/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://csrc.nist.gov/glossary/term/least_privilege": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://csrc.nist.gov/pubs/sp/800/61/r3/final": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://csrc.nist.gov/pubs/sp/800/86/final": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://css-tricks.com/snippets/css/a-guide-to-flexbox/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://css-tricks.com/snippets/css/complete-guide-grid/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://d3fend.mitre.org/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://dataintensive.net/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://dev.java/learn/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://developer.chrome.com/docs/lighthouse/overview": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://developer.hashicorp.com/terraform/language": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://developer.hashicorp.com/terraform/language/state": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://developer.hashicorp.com/terraform/tutorials": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://developer.hashicorp.com/vault/docs": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Events": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Handling_conflicts": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Organizing": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Async_JS": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Form_validation": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/How_the_web_works": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://developer.mozilla.org/en-US/docs/Web/HTML/Element": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://developer.mozilla.org/en-US/docs/Web/Security": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://developers.google.com/machine-learning/crash-course": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://developers.google.com/machine-learning/crash-course/classification": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://developers.google.com/machine-learning/guides/rules-of-ml": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.ansible.com/ansible/latest/getting_started/index.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.aws.amazon.com/kms/latest/developerguide/overview.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.aws.amazon.com/lambda/latest/dg/welcome.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.aws.amazon.com/vpc/latest/privatelink/what-is-privatelink.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.aws.amazon.com/vpn/latest/s2svpn/VPC_VPN.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/welcome.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/welcome.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.aws.amazon.com/whitepapers/latest/database-caching-strategies-using-redis/welcome.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/disaster-recovery-workloads-on-aws.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.bullmq.io/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.claude.com/en/docs/test-and-evaluate/develop-tests": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.docker.com/build/building/best-practices/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.docker.com/build/building/multi-stage/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.docker.com/compose/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.docker.com/get-started/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.evidentlyai.com/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.github.com/en/actions": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.github.com/en/actions/security-for-github-actions/security-guides/using-secrets-in-github-actions": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.github.com/en/code-security/dependabot": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.github.com/en/get-started/start-your-journey/hello-world": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.github.com/en/pages": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.gitlab.com/ci/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.junit.org/current/user-guide/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.jupyter.org/en/latest/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.netlify.com/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.npmjs.com/about-npm": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.pytest.org/en/stable/getting-started.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.python.org/3/howto/regex.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.python.org/3/library/sqlite3.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.python.org/3/library/subprocess.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.python.org/3/library/venv.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.python.org/3/tutorial/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.streamlit.io/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.suricata.io/en/latest/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.vllm.ai/en/latest/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://docs.wandb.ai/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://documentation.wazuh.com/current/index.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://dvc.org/doc": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://eloquentjavascript.net/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://en.wikipedia.org/wiki/Database_normalization": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://eslint.org/docs/latest/use/getting-started": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://experimentguide.com/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://expressjs.com/en/guide/error-handling.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://fastapi.tiangolo.com/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://flexboxfroggy.com/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://fly.io/docs/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://fullstackopen.com/en/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://galaxy.ansible.com/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://git-scm.com/book/en/v2": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://github.com/OTRF/Security-Datasets": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://github.com/ansible/ansible": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://github.com/anthropics/anthropic-cookbook": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://github.com/anthropics/prompt-eng-interactive-tutorial": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://github.com/awesomedata/awesome-public-datasets": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://github.com/donnemartin/system-design-primer": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://github.com/facebookresearch/faiss/wiki": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://github.com/practical-tutorials/project-based-learning": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://github.com/splunk/botsv3": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://go.dev/tour/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://google.github.io/eng-practices/review/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://google.github.io/styleguide/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://grafana.com/docs/grafana/latest/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://grafana.com/docs/loki/latest/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://graphql.org/learn/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://greenteapress.com/wp/think-stats-2e/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://grpc.io/docs/what-is-grpc/introduction/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://hamel.dev/blog/posts/evals/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://helm.sh/docs/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://helm.sh/docs/chart_template_guide/getting_started/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://huggingface.co/docs/accelerate/index": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://huggingface.co/docs/evaluate/index": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://huggingface.co/docs/peft/index": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://huggingface.co/docs/trl/index": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://huggingface.co/learn/llm-course/chapter1/1": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://huggingface.co/spaces": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://huyenchip.com/2022/02/07/data-distribution-shifts-and-monitoring.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://jalammar.github.io/illustrated-transformer/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://javascript.info/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://javascript.info/async": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://javascript.info/document": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://jwt.io/introduction": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://kind.sigs.k8s.io/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://kubernetes.io/docs/concepts/configuration/secret/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://kubernetes.io/docs/concepts/overview/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://kubernetes.io/docs/concepts/workloads/controllers/deployment/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://kubernetes.io/docs/tutorials/kubernetes-basics/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://labex.io/linuxjourney": {
+      "ok": true,
+      "status": 403,
+      "method": "browser",
+      "on": "2026-10-02"
+    },
+    "https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/overview-cost-management": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://learn.microsoft.com/en-us/azure/key-vault/general/overview": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://learn.microsoft.com/en-us/azure/reliability/overview": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://learn.microsoft.com/en-us/azure/sentinel/overview": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://learn.microsoft.com/en-us/azure/virtual-machines/overview": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-endpoint": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://learn.microsoft.com/en-us/dotnet/csharp/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://learn.microsoft.com/en-us/entra/fundamentals/whatis": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://learn.microsoft.com/en-us/power-bi/fundamentals/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://learn.microsoft.com/en-us/powershell/scripting/overview": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://learn.microsoft.com/en-us/sysinternals/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://learn.microsoft.com/en-us/troubleshoot/windows-client/networking/tcpip-addressing-and-subnetting": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/security-auditing-overview": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://learngitbranching.js.org/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://letsencrypt.org/how-it-works/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://linuxcommand.org/tlcl.php": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://martinfowler.com/articles/continuousIntegration.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://martinfowler.com/articles/feature-toggles.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://martinfowler.com/articles/practical-test-pyramid.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://martinfowler.com/bliki/BlueGreenDeployment.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://martinfowler.com/bliki/CanaryRelease.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://martinfowler.com/bliki/UnitTest.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://matplotlib.org/stable/tutorials/index.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://missing.csail.mit.edu/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://mlflow.org/docs/latest/index.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://mml-book.github.io/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://mywiki.wooledge.org/BashGuide": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://nextjs.org/docs": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://nextjs.org/learn": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://nodejs.org/api/stream.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://nodejs.org/api/test.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://nodejs.org/en/learn/asynchronous-work/event-loop-timers-and-nexttick": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://nodejs.org/en/learn/getting-started/introduction-to-nodejs": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://numpy.org/doc/stable/user/absolute_beginners.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://nvd.nist.gov/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://oauth.net/2/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://onnxruntime.ai/docs/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://opendatastructures.org/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://opentelemetry.io/docs/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://opentelemetry.io/docs/concepts/signals/traces/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://orm.drizzle.team/docs/overview": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://owasp.org/Top10/A01_2021-Broken_Access_Control/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://owasp.org/www-project-top-ten/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://packaging.python.org/en/latest/tutorials/packaging-projects/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://pandas.pydata.org/docs/user_guide/io.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://pandas.pydata.org/docs/user_guide/missing_data.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://playwright.dev/docs/intro": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://plotly.com/python/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://portswigger.net/web-security": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://portswigger.net/web-security/access-control": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://prometheus.io/docs/introduction/overview/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://prometheus.io/docs/prometheus/latest/querying/basics/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://protobuf.dev/overview/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://pytorch.org/docs/stable/index.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://pytorch.org/tutorials/beginner/basics/intro.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://pytorch.org/tutorials/beginner/ddp_series_intro.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://r4ds.hadley.nz/EDA.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://react-typescript-cheatsheet.netlify.app/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://react.dev/learn": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://react.dev/learn/describing-the-ui": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://react.dev/learn/managing-state": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://react.dev/learn/state-a-components-memory": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://react.dev/learn/thinking-in-react": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://react.dev/learn/you-might-not-need-an-effect": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://react.dev/reference/react/hooks": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://reactrouter.com/home": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://reactrouter.com/start/framework/installation": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://redis.io/docs/latest/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://redux.js.org/tutorials/essentials/part-1-overview-concepts": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://refactoring.guru/design-patterns": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://refactoring.guru/refactoring": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://registry.terraform.io/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://render.com/docs": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://requests.readthedocs.io/en/latest/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://response.pagerduty.com/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://scikit-learn.org/stable/common_pitfalls.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://scikit-learn.org/stable/modules/clustering.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://scikit-learn.org/stable/modules/cross_validation.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://scikit-learn.org/stable/modules/decomposition.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://scikit-learn.org/stable/modules/model_evaluation.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://scikit-learn.org/stable/modules/preprocessing.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://scikit-learn.org/stable/supervised_learning.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://scikit-learn.org/stable/unsupervised_learning.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://seaborn.pydata.org/tutorial.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://seeing-theory.brown.edu/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://selectstarsql.com/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://slsa.dev/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://spec.openapis.org/oas/latest.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://sqlbolt.com/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://sre.google/sre-book/managing-incidents/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://sre.google/sre-book/monitoring-distributed-systems/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://sre.google/sre-book/postmortem-culture/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://sre.google/sre-book/table-of-contents/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://tailwindcss.com/docs": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://tanstack.com/query/latest/docs/framework/react/overview": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://testcontainers.com/getting-started/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://testing-library.com/docs/react-testing-library/intro/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://top10proactive.owasp.org/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://trivy.dev/docs/latest/guide/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://ubuntu.com/server/docs": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://ubuntu.com/tutorials/command-line-for-beginners": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://use-the-index-luke.com/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://vercel.com/docs": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://visualgo.net/en": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://vite.dev/guide/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://vitest.dev/guide/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://volatility3.readthedocs.io/en/latest/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://web.dev/articles/vitals": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://web.dev/learn/accessibility": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://web.dev/learn/css": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://web.dev/learn/design": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://web.dev/learn/forms": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://web.dev/learn/html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://web.dev/learn/performance": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://wesmckinney.com/book/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.3blue1brown.com/topics/calculus": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.3blue1brown.com/topics/linear-algebra": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.3blue1brown.com/topics/neural-networks": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.anthropic.com/news/contextual-retrieval": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.atlassian.com/git/tutorials/comparing-workflows": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.cisa.gov/known-exploited-vulnerabilities-catalog": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.cisa.gov/resources-tools/resources/federal-government-cybersecurity-incident-and-vulnerability-response-playbooks": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.cisa.gov/topics/cyber-threats-and-advisories": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.cisecurity.org/controls": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.cloudflare.com/learning/access-management/phishing-attack/": {
+      "ok": true,
+      "status": 403,
+      "method": "browser",
+      "on": "2026-10-02"
+    },
+    "https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/": {
+      "ok": true,
+      "status": 403,
+      "method": "browser",
+      "on": "2026-10-02"
+    },
+    "https://www.cloudflare.com/learning/ddos/glossary/tcp-ip/": {
+      "ok": true,
+      "status": 403,
+      "method": "browser",
+      "on": "2026-10-02"
+    },
+    "https://www.cloudflare.com/learning/dns/what-is-dns/": {
+      "ok": true,
+      "status": 403,
+      "method": "browser",
+      "on": "2026-10-02"
+    },
+    "https://www.cloudflare.com/learning/email-security/dmarc-dkim-spf/": {
+      "ok": true,
+      "status": 403,
+      "method": "browser",
+      "on": "2026-10-02"
+    },
+    "https://www.cloudflare.com/learning/performance/what-is-load-balancing/": {
+      "ok": true,
+      "status": 403,
+      "method": "browser",
+      "on": "2026-10-02"
+    },
+    "https://www.cloudflare.com/learning/security/glossary/what-is-zero-trust/": {
+      "ok": true,
+      "status": 403,
+      "method": "browser",
+      "on": "2026-10-02"
+    },
+    "https://www.cloudflare.com/learning/ssl/what-happens-in-a-tls-handshake/": {
+      "ok": true,
+      "status": 403,
+      "method": "browser",
+      "on": "2026-10-02"
+    },
+    "https://www.cloudflare.com/learning/ssl/what-is-encryption/": {
+      "ok": true,
+      "status": 403,
+      "method": "browser",
+      "on": "2026-10-02"
+    },
+    "https://www.conventionalcommits.org/en/v1.0.0/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.data-to-viz.com/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.deeplearningbook.org/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.evanmiller.org/ab-testing/sample-size.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.evanmiller.org/how-not-to-run-an-ab-test.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.finops.org/introduction/what-is-finops/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.first.org/cvss/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.first.org/epss/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.freedesktop.org/software/systemd/man/latest/systemctl.html": {
+      "ok": true,
+      "status": 418,
+      "method": "browser",
+      "on": "2026-10-02"
+    },
+    "https://www.frontendmentor.io/challenges": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.gnu.org/software/bash/manual/bash.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.itl.nist.gov/div898/handbook/eda/eda.htm": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.jaegertracing.io/docs/latest/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.jstatsoft.org/article/view/v059i10": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.kaggle.com/competitions": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.kaggle.com/learn/data-cleaning": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.kaggle.com/learn/data-visualization": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.kaggle.com/learn/feature-engineering": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.kaggle.com/learn/intro-to-machine-learning": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.kaggle.com/learn/pandas": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.kaggle.com/learn/python": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.khanacademy.org/computing/computer-science/algorithms": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.khanacademy.org/math/linear-algebra": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.khanacademy.org/math/multivariable-calculus": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.khanacademy.org/math/statistics-probability": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.khanacademy.org/math/statistics-probability/probability-library": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.learnpytorch.io/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.malware-traffic-analysis.net/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.mongodb.com/docs/manual/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.mongodb.com/docs/manual/data-modeling/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.nist.gov/cyberframework": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.openintro.org/book/os/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.postgresql.org/docs/current/ddl-constraints.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.postgresql.org/docs/current/tutorial.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.prisma.io/docs/orm": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.prisma.io/docs/orm/prisma-migrate": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.probabilitycourse.com/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.promptingguide.ai/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.rabbitmq.com/tutorials": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.rfc-editor.org/rfc/rfc9457": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.sbert.net/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.shellcheck.net/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.sleuthkit.org/autopsy/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.statlearning.com/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.storytellingwithdata.com/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.tableau.com/learn/training": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.tcpdump.org/manpages/tcpdump.1.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.theodinproject.com/paths/foundations/courses/foundations": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.theodinproject.com/paths/full-stack-javascript": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.typescriptlang.org/docs/handbook/intro.html": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.typescriptlang.org/play": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://www.w3.org/WAI/ARIA/apg/": {
+      "ok": true,
+      "status": 403,
+      "method": "browser",
+      "on": "2026-10-02"
+    },
+    "https://www.w3.org/WAI/WCAG22/quickref/": {
+      "ok": true,
+      "status": 403,
+      "method": "browser",
+      "on": "2026-10-02"
+    },
+    "https://www.w3.org/WAI/fundamentals/accessibility-intro/": {
+      "ok": true,
+      "status": 403,
+      "method": "browser",
+      "on": "2026-10-02"
+    },
+    "https://www.wireshark.org/docs/wsug_html_chunked/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://zeek.org/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    },
+    "https://zustand.docs.pmnd.rs/": {
+      "ok": true,
+      "status": 200,
+      "method": "automated",
+      "on": "2026-10-03"
+    }
+  }
+}

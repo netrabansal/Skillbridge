@@ -1,0 +1,183 @@
+@import "tailwindcss";
+
+/*
+ * SkillBridge design tokens — the single source of truth for colour and type.
+ * Components must use these tokens (via the Tailwind utilities below), never raw hex values.
+ *
+ * Brand palette (from the supplied reference):
+ *   Cream            #F0E7D5
+ *   Midnight Indigo  #212842
+ *   Logo ink         #0C2A4C  (sampled from the supplied logo file)
+ *
+ * Every neutral below is a tint or shade of Cream / Midnight Indigo; no other hues are introduced.
+ * The semantic colours (success / warning / danger / info) are proposals pending brand approval.
+ */
+
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
+
+:root {
+  /* Brand constants — identical in both themes */
+  --brand-cream: #f0e7d5;
+  --brand-indigo: #212842;
+  --brand-logo-ink: #0c2a4c;
+}
+
+:root,
+[data-theme="light"] {
+  color-scheme: light;
+
+  --background: var(--brand-cream);
+  --surface: #f7f2e8; /* Cream lifted 45% toward white — cards, popovers */
+  --surface-sunken: #e4dccc; /* Cream + 6% Indigo — wells, inputs, table stripes */
+  --foreground: var(--brand-indigo);
+  --muted-foreground: #555867; /* Cream + 75% Indigo — 5.7:1 on background */
+  --border: #cfc8bd; /* Cream + 16% Indigo */
+  --border-strong: #aeaaa6; /* Cream + 32% Indigo */
+
+  --primary: var(--brand-indigo);
+  --primary-foreground: var(--brand-cream);
+  --primary-hover: #343a52;
+  --ring: var(--brand-indigo);
+
+  --logo-ink: var(--brand-logo-ink); /* the logo exactly as supplied */
+
+  /* Elevation — shadows tinted with Midnight Indigo so they sit naturally on Cream */
+  --elev-1: 0 1px 2px rgb(33 40 66 / 0.05), 0 1px 1px rgb(33 40 66 / 0.03);
+  --elev-2: 0 1px 2px rgb(33 40 66 / 0.06), 0 12px 32px -12px rgb(33 40 66 / 0.22);
+  --elev-3: 0 2px 4px rgb(33 40 66 / 0.06), 0 24px 56px -20px rgb(33 40 66 / 0.32);
+
+  /* Proposed semantic colours (pending approval) */
+  --success: #2f6b4f;
+  --success-soft: #e3e4d9;
+  --warning: #8a5a12;
+  --warning-soft: #ece3d3;
+  --danger: #a23b32;
+  --danger-soft: #eee0d6;
+  --info: #2e4f86;
+  --info-soft: #e3e2de;
+}
+
+[data-theme="dark"] {
+  color-scheme: dark;
+
+  --background: var(--brand-indigo);
+  --surface: #2d334b; /* Indigo + 6% Cream */
+  --surface-sunken: #1a1f33; /* Indigo deepened 22% */
+  --foreground: var(--brand-cream);
+  --muted-foreground: #b2aea9; /* Indigo + 70% Cream — 6.6:1 on background */
+  --border: #42475a; /* Indigo + 16% Cream */
+  --border-strong: #636571; /* Indigo + 32% Cream */
+
+  --primary: var(--brand-cream);
+  --primary-foreground: var(--brand-indigo);
+  --primary-hover: #e2d9c8;
+  --ring: var(--brand-cream);
+
+  --logo-ink: var(--brand-cream); /* logo navy is invisible on Indigo (1.0:1) — Cream variant, pending approval */
+
+  --elev-1: 0 1px 2px rgb(0 0 0 / 0.2);
+  --elev-2: 0 1px 2px rgb(0 0 0 / 0.2), 0 12px 32px -12px rgb(0 0 0 / 0.5);
+  --elev-3: 0 2px 4px rgb(0 0 0 / 0.2), 0 24px 56px -20px rgb(0 0 0 / 0.6);
+
+  --success: #8fcba8;
+  --success-soft: #334252;
+  --warning: #e2b565;
+  --warning-soft: #403f48;
+  --danger: #f0948a;
+  --danger-soft: #42394e;
+  --info: #9db8e6;
+  --info-soft: #353f5c;
+}
+
+@theme inline {
+  --color-cream: var(--brand-cream);
+  --color-indigo: var(--brand-indigo);
+  --color-logo-ink: var(--logo-ink);
+
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-surface-sunken: var(--surface-sunken);
+  --color-foreground: var(--foreground);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-border: var(--border);
+  --color-border-strong: var(--border-strong);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary-hover: var(--primary-hover);
+  --color-ring: var(--ring);
+
+  --color-success: var(--success);
+  --color-success-soft: var(--success-soft);
+  --color-warning: var(--warning);
+  --color-warning-soft: var(--warning-soft);
+  --color-danger: var(--danger);
+  --color-danger-soft: var(--danger-soft);
+  --color-info: var(--info);
+  --color-info-soft: var(--info-soft);
+
+  /* Typography — font variables are provided by next/font in layout.tsx */
+  --font-display: var(--font-brand-display), ui-serif, Georgia, serif;
+  --font-label: var(--font-brand-label), ui-sans-serif, system-ui, sans-serif;
+  --font-sans: var(--font-brand-sans), ui-sans-serif, system-ui, sans-serif;
+
+  --shadow-elev-1: var(--elev-1);
+  --shadow-elev-2: var(--elev-2);
+  --shadow-elev-3: var(--elev-3);
+
+  --animate-fade-up: fade-up 420ms cubic-bezier(0.2, 0.7, 0.2, 1) both;
+
+  @keyframes fade-up {
+    from {
+      opacity: 0;
+      transform: translateY(6px);
+    }
+    to {
+      opacity: 1;
+      transform: none;
+    }
+  }
+
+  --radius-sm: 0.375rem;
+  --radius-md: 0.625rem;
+  --radius-lg: 0.875rem;
+  --radius-xl: 1.25rem;
+}
+
+@layer base {
+  html {
+    background: var(--background);
+  }
+
+  body {
+    background: var(--background);
+    color: var(--foreground);
+    font-family: var(--font-sans);
+    font-feature-settings: "cv11", "ss01";
+    transition:
+      background-color 200ms ease,
+      color 200ms ease;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  ::selection {
+    background: var(--foreground);
+    color: var(--background);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--ring);
+    outline-offset: 2px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      transition-duration: 0ms !important;
+      animation-duration: 0ms !important;
+    }
+  }
+}

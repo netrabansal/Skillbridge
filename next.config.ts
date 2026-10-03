@@ -1,0 +1,8 @@
+import type { NextConfig } from "next";
+
+const nextConfig: NextConfig = {
+  // Lets the dev server also be opened at 127.0.0.1 (a separate browser origin, so separate saved data from localhost).
+  allowedDevOrigins: ["127.0.0.1"],
+};
+
+export default nextConfig;
